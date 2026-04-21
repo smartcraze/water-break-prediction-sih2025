@@ -1,7 +1,4 @@
-
-
 # 🚀 Disease Outbreak Prediction API
-
 This project provides a **FastAPI** service for predicting disease outbreak risk using a trained **LightGBM** model. The API exposes multiple endpoints for predictions, analytics, and feature insights.
 
 ---
